@@ -1,0 +1,11 @@
+{
+    "name": "JapanLanguageMod",
+    "version": "1.6.2",
+    "description": "Japan Language Mod",
+    "author": "surumeika1987",
+    "minGameVersion": "B125",
+    "maxGameVersion": "B125",
+    "assemblyName": "",
+    "permissions": [],
+    "steamFileId": 1918286264
+}

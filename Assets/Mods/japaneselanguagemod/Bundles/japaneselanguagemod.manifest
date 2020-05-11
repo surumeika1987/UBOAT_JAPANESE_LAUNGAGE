@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2643362798
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4a446b63ca7ef5e4b2b20d0cf45630c6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c0edebb1a4609df94eeefe9cadea070f
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1651638530, guid: aaeaace971825154b9e63cccd06929df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/Packages/japaneselanguagemod/UI/JapaneseUI/cinecaption226.ttf
+- Assets/Packages/japaneselanguagemod/Manifest.asset
+- Assets/Packages/japaneselanguagemod/UI/JapaneseUI/cinecaption226 SDF.asset
+Dependencies: []
